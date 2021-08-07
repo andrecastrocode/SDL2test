@@ -1,0 +1,15 @@
+---
+Checks:
+  '-*,
+  bugprone*,
+  cppcoreguidelines*,
+  hicpp*,
+  misc*,
+  modernize*,
+  performance*,
+  readability*,
+  -modernize-use-trailing-return-type,
+  '
+WarningsAsErrors: '*'
+HeaderFilterRegex: ''
+FormatStyle: none
